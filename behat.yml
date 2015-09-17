@@ -1,0 +1,11 @@
+default:
+    extensions:
+        Laracasts\Behat:
+            env_path: .env.behat
+        Behat\MinkExtension\ServiceContainer\MinkExtension:
+            default_session: selenium2
+            selenium2:
+                      browser:              'firefox'
+                      capabilities:         { "browserName": "firefox", "browser": "firefox", "version":  "9"}
+                      wd_host: http://127.0.0.1:4444/wd/hub
+            laravel: ~
