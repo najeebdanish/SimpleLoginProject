@@ -21,7 +21,7 @@ and place it under "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject"
 
 ### Configurations
 1. Add the following line in ${WINDOWS_HOME}\System32\drivers\etc\hosts
-	127.0.0.1       simplelogin.dev
+   * 127.0.0.1       simplelogin.dev
 
 2. Go your ${APACHE_INSTALL_DIR}\conf\extra
 
