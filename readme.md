@@ -7,6 +7,7 @@
 	[Laravel](http://laravel.com/docs/5.1#installation)
 	[Behat](http://docs.behat.org/en/v2.5/quick_intro.html#installation)
 	[SeleniumHQ](http://www.seleniumhq.org/download/)
+	[MIT license](http://opensource.org/licenses/MIT)
 
 ## Project Download
 Download the project from the following location and place it under "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject"
