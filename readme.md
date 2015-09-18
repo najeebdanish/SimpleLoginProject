@@ -1,13 +1,14 @@
 # Simple Login Project
 
 ## Pre-requisite
+
+Please setup the following before running/testing this project
 	[Apache24](http://httpd.apache.org/download.cgi)
 	[MariaDB](https://downloads.mariadb.org/mariadb/10.0.20/)
 	[PHP](http://php.net/downloads.php)
 	[Laravel](http://laravel.com/docs/5.1#installation)
 	[Behat](http://docs.behat.org/en/v2.5/quick_intro.html#installation)
 	[SeleniumHQ](http://www.seleniumhq.org/download/)
-	[MIT license](http://opensource.org/licenses/MIT)
 
 ## Project Download
 Download the project from the following location and place it under "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject"
