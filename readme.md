@@ -1,4 +1,4 @@
-## Simple Login Project
+# Simple Login Project
 
 ## Pre-requisite
 	[Apache_2.4](http://httpd.apache.org/download.cgi)
@@ -14,7 +14,7 @@ Download the project from the following location and place it under "${APACHE_IN
 
 ## Instructions
 
-# Configurations
+### Configurations
 1. Add the following line in ${WINDOWS_HOME}\System32\drivers\etc\hosts
 	127.0.0.1       simplelogin.dev
 
@@ -48,7 +48,7 @@ Download the project from the following location and place it under "${APACHE_IN
 	User	:	testuser@fake.com		PASSWORD	:	testuser		(This is a regular/nonAdmin user)
 
 	
-# How to run and test
+### How to run and test
 
 1. Open any browser and go to http://simplelogin.dev:81. It will take you to the login page
 
