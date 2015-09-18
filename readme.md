@@ -26,9 +26,9 @@ and place it under "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject"
 2. Go your ${APACHE_INSTALL_DIR}\conf\extra
 
 3. Open httpd-vhosts.conf and put the following lines at the end
-	<VirtualHost *:80>
-    DocumentRoot "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject\public"
-    ServerName simplelogin.dev
+   * <VirtualHost *:80>
+   	DocumentRoot "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject\public"
+	ServerName simplelogin.dev
 	</VirtualHost>
 
 4. Run the selenium jar file you download from the link above "selenium-server-standalone-2.47.1.jar"
