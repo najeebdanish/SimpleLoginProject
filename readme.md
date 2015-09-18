@@ -3,12 +3,12 @@
 ## Pre-requisite
 
 Please setup the following before running/testing this project
-	* [Apache24](http://httpd.apache.org/download.cgi)
-	* [MariaDB](https://downloads.mariadb.org/mariadb/10.0.20/)
-	* [PHP](http://php.net/downloads.php)
-	* [Laravel](http://laravel.com/docs/5.1#installation)
-	* [Behat](http://docs.behat.org/en/v2.5/quick_intro.html#installation)
-	* [SeleniumHQ](http://www.seleniumhq.org/download/)
+1. [Apache 2.4](http://httpd.apache.org/download.cgi)
+2. [MariaDB 10.0.20](https://downloads.mariadb.org/mariadb/10.0.20/)
+3. [PHP 5.6](http://php.net/downloads.php)
+4. [Laravel 5.1](http://laravel.com/docs/5.1#installation)
+5. [Behat](http://docs.behat.org/en/v2.5/quick_intro.html#installation)
+6. [SeleniumHQ](http://www.seleniumhq.org/download/)
 
 ## Project Download
 Download the project from the following location and place it under "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject"
