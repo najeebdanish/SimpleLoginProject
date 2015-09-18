@@ -1,10 +1,10 @@
 # Simple Login Project
 
 ## Pre-requisite
-	[Apache_2.4](http://httpd.apache.org/download.cgi)
-	[MariaDB_10.0.20](https://downloads.mariadb.org/mariadb/10.0.20/)
-	[PHP_5.6](http://php.net/downloads.php)
-	[Laravel_5.1](http://laravel.com/docs/5.1#installation)
+	[Apache24](http://httpd.apache.org/download.cgi)
+	[MariaDB](https://downloads.mariadb.org/mariadb/10.0.20/)
+	[PHP](http://php.net/downloads.php)
+	[Laravel](http://laravel.com/docs/5.1#installation)
 	[Behat](http://docs.behat.org/en/v2.5/quick_intro.html#installation)
 	[SeleniumHQ](http://www.seleniumhq.org/download/)
 
