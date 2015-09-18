@@ -50,7 +50,7 @@ Download the project from the following location and place it under "${APACHE_IN
 	
 ### How to run and test
 
-1. Open any browser and go to http://simplelogin.dev:81. It will take you to the login page
+1. Open any browser and go to "http://simplelogin.dev:81". It will take you to the login page
 
 2. Login using one of the users as mentioned above
 
@@ -58,7 +58,7 @@ Download the project from the following location and place it under "${APACHE_IN
 
 4. To log out just hit the "Logout" button
 
-5 If you try to hit the same home URL again "http://simplelogin.dev:81" in the same session then it will always take you to main dashboard since you are already logged in
+5. If you try to hit the same home URL again "http://simplelogin.dev:81" in the same session then it will always take you to main dashboard since you are already logged in
 
 6. Similarly if you are not logged in and you try to access "http://simplelogin.dev:81/home" then it will redirect to the login page to login first
 
