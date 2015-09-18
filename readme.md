@@ -12,8 +12,10 @@ Please setup the following before running/testing this project.
 6. [SeleniumHQ](http://www.seleniumhq.org/download/)
 
 ## Project Download
-Download the project from the following location and place it under "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject"
+Download the project from the following location 
 	https://github.com/najeebdanish/SimpleLoginProject
+and place it under "${APACHE_INSTALL_DIR}\htdocs\SimpleLoginProject"
+	
 
 ## Instructions
 
