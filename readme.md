@@ -2,7 +2,8 @@
 
 ## Pre-requisite
 
-Please setup the following before running/testing this project
+Please setup the following before running/testing this project.
+
 1. [Apache 2.4](http://httpd.apache.org/download.cgi)
 2. [MariaDB 10.0.20](https://downloads.mariadb.org/mariadb/10.0.20/)
 3. [PHP 5.6](http://php.net/downloads.php)
